@@ -22,7 +22,7 @@ jsonSource_Preferenciaparacomprarproductos_0.addFeatures(features_Preferenciapar
                 declutter: true,
                 source:jsonSource_Preferenciaparacomprarproductos_0, 
                 style: style_Preferenciaparacomprarproductos_0,
-    title: '<b/>Percepción sobre la preferencia para comprar productos alimenticios:</b><br />El degradado de colores en el mapa muestra el porcentaje de personas<br />que prefieren comprar productos frescos en el mercado<br />\
+    title: '<b/>Percepción sobre la preferencia para comprar productos alimenticios:</b><br />El degradado de colores en el mapa muestra el porcentaje de personas que prefieren comprar productos frescos en el mercado<br />\
     <img src="styles/legend/Preferenciaparacomprarproductos_0_0.png" />  0 - 20 <br />\
     <img src="styles/legend/Preferenciaparacomprarproductos_0_1.png" />  20 - 40 <br />\
     <img src="styles/legend/Preferenciaparacomprarproductos_0_2.png" />  40 - 60 <br />\
