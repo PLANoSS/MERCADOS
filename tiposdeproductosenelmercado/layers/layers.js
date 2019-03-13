@@ -22,7 +22,7 @@ jsonSource_Productosquelegustariaencontrarenelmercado_0.addFeatures(features_Pro
                 declutter: true,
                 source:jsonSource_Productosquelegustariaencontrarenelmercado_0, 
                 style: style_Productosquelegustariaencontrarenelmercado_0,
-    title: '<b/>Percepción sobre productos en el mercado:</b><br />El degradado de colores en el mapa indica el porcentaje<br />de personas que quisieran encontrar más <b/>productos<br />ecológicos</b> en el mercado.<br /><br />\
+    title: '<b/>Percepción sobre productos en el mercado:</b><br />El degradado de colores en el mapa indica el porcentaje<br />de personas que quisieran encontrar más <b/>productos<br />de mejor calidad</b> en el mercado.<br /><br />\
     <img src="styles/legend/Productosquelegustariaencontrarenelmercado_0_0.png" />  0 - 20 <br />\
     <img src="styles/legend/Productosquelegustariaencontrarenelmercado_0_1.png" />  20 - 40 <br />\
     <img src="styles/legend/Productosquelegustariaencontrarenelmercado_0_2.png" />  40 - 60 <br />\
