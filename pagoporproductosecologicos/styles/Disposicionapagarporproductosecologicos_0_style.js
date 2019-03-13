@@ -6,7 +6,7 @@ var style_Disposicionapagarporproductosecologicos_0 = function(feature, resoluti
         feature: feature,
         variables: {}
     };
-    var value = feature.get("q2wHide_No estaría");
+    var value = feature.get("No estaría dispuesto a pagar más (%)");
     var labelText = "";
     size = 0;
     var labelFont = "9.75px \'MS Shell Dlg 2\', sans-serif";
