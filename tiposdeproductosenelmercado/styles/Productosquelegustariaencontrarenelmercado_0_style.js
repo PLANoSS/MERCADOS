@@ -6,7 +6,7 @@ var style_Productosquelegustariaencontrarenelmercado_0 = function(feature, resol
         feature: feature,
         variables: {}
     };
-    var value = feature.get("q2wHide_Productos");
+    var value = feature.get("Productos de mejor calidad (%)");
     var labelText = "";
     size = 0;
     var labelFont = "9.75px \'MS Shell Dlg 2\', sans-serif";
