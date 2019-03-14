@@ -6,7 +6,7 @@ var style_Aparatoselectronicosdaados_0 = function(feature, resolution){
         feature: feature,
         variables: {}
     };
-    var value = feature.get("q2wHide_Lo reparo");
+    var value = feature.get("Lo reparo o lo hago reparar (%)");
     var labelText = "";
     size = 0;
     var labelFont = "9.75px \'MS Shell Dlg 2\', sans-serif";

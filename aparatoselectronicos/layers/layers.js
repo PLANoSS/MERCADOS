@@ -22,7 +22,7 @@ jsonSource_Aparatoselectronicosdaados_0.addFeatures(features_Aparatoselectronico
                 declutter: true,
                 source:jsonSource_Aparatoselectronicosdaados_0, 
                 style: style_Aparatoselectronicosdaados_0,
-    title: '<b/>Percepción sobre aparatos electrónicos dañados:</b><br />El degradado de colores en el mapa indica el porcentaje de personas<br />que reaparan o hacen reparar<b/> sus aparatos electrónicos o eléctricos<br />dañados.</b><br /><br />\
+    title: '<b/>Percepción sobre aparatos electrónicos dañados:</b><br />El degradado de colores en el mapa indica el porcentaje de personas<br />que <b/> reaparan o hacen reparar</b> sus aparatos electrónicos o eléctricos<br />dañados.<br /><br />\
     <img src="styles/legend/Aparatoselectronicosdaados_0_0.png" />  0 - 20 <br />\
     <img src="styles/legend/Aparatoselectronicosdaados_0_1.png" />  20 - 40 <br />\
     <img src="styles/legend/Aparatoselectronicosdaados_0_2.png" />  40 - 60 <br />\
