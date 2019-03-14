@@ -1,12 +1,12 @@
 var size = 0;
 var placement = 'point';
 
-var style_Marcadelosproductos_0 = function(feature, resolution){
+var style_Impactoalambientedelosproductos_0 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
     };
-    var value = feature.get("Importante (%)");
+    var value = feature.get("Muy importante (%)");
     var labelText = "";
     size = 0;
     var labelFont = "9.75px \'MS Shell Dlg 2\', sans-serif";
