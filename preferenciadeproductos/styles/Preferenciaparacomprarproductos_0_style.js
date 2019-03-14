@@ -6,7 +6,7 @@ var style_Preferenciaparacomprarproductos_0 = function(feature, resolution){
         feature: feature,
         variables: {}
     };
-    var value = feature.get("q2wHide_Comprar pr");
+    var value = feature.get("Comprar productos frescos en los mercados (%)");
     var labelText = "";
     size = 0;
     var labelFont = "9.75px \'MS Shell Dlg 2\', sans-serif";
