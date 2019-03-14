@@ -6,7 +6,7 @@ var style_Preciodelproducto_0 = function(feature, resolution){
         feature: feature,
         variables: {}
     };
-    var value = feature.get("q2wHide_Muy import");
+    var value = feature.get("Muy importante (%)");
     var labelText = "";
     size = 0;
     var labelFont = "9.75px \'MS Shell Dlg 2\', sans-serif";
